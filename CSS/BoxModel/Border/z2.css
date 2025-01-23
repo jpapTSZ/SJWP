@@ -1,0 +1,7 @@
+.Div {
+    border: 1px solid red;
+    margin-left: 80px;
+}
+
+.Div p {
+    margin-left: inherit;

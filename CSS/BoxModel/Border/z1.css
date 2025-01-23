@@ -1,0 +1,8 @@
+.obrubInset{
+    border: 1px inset red;
+}
+
+.obrubThin{
+    border-bottom:  thin solid blue;
+    border-top: thin solid blue;
+}
